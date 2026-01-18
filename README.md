@@ -1,11 +1,10 @@
 <h1 align="center">
 ✨🚀 <span style="color:#00FFAA;">botpruebanetwor</span> 🤖💚
 </h1>
-
 <p align="center">
-  <img src="(https://i.postimg.cc/14xTPyDX/20251218-042638(0).jpg)" width="300" alt="NaufraBot V2" />
-</p>
 
+  <img src="https://i.postimg.cc/0ygy14nq/20251017-152852.jpg" width="300" alt="NaufraBot V2" />
+</p>
 
 ---
 
